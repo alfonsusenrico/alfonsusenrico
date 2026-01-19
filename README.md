@@ -1,49 +1,81 @@
-## Hi, I'm Enrico 👋
+# Enrico
 
-I'm a backend engineer with experience building API-driven and AI-powered systems for real-world business use cases.  
-My work focuses on backend architecture, system reliability, and automation, with a strong interest in AI-integrated software and SaaS-style systems.
+Backend Engineer focused on building reliable, API-driven and AI-integrated backend systems for real-world use cases. Experienced in designing backend architectures, integrating external APIs, and developing automation-oriented software with production mindset.
 
-### What I do
-- Design and build backend services and REST APIs
-- Develop AI-integrated systems and automation workflows
-- Build backend-heavy fullstack applications
-- Work with production-oriented systems and infrastructure
+---
 
-### Tech stack
+## About
+
+I specialize in backend development with a strong focus on system architecture, API orchestration, and backend-heavy full‑stack systems. I have hands-on experience building AI-powered services and automation workflows from scratch, owning the full lifecycle from design and implementation to deployment and maintenance in Linux-based environments.
+
+Formally trained in full‑stack development, I value clean system design, reliability, and practical solutions that support real business workflows. I’m comfortable adapting to new technologies and continuously expanding my skill set as project requirements evolve.
+
+---
+
+## What I Do
+
+* Design and build backend services and REST APIs
+* Develop AI-integrated systems and automation workflows
+* Build backend-heavy full‑stack applications
+* Integrate third‑party and internal APIs
+* Deploy and maintain production‑oriented backend systems
+
+---
+
+## Tech Stack
+
 **Languages**
-- Python
-- Node.js / TypeScript
-- Learning Go
+Python, JavaScript (Node.js / TypeScript), Learning Go
 
 **Backend & Infrastructure**
-- FastAPI
-- PostgreSQL
-- Redis
-- Docker & Linux (operations)
+FastAPI, PostgreSQL, Redis, Docker, Linux (Ubuntu/Debian)
 
-### Experience highlight
-I have built backend systems from scratch, including AI-powered services that automate complex business workflows.  
-My experience covers system architecture, API orchestration, database design, deployment, and supporting real-world usage scenarios in production-like environments.
+---
 
-### Projects
+## Experience Highlights
 
-**AI-Powered SaaS Chatbot System** *(Work in Progress – private)*  
-Backend-heavy AI SaaS system designed to automate customer interactions and business workflows.  
-Built from scratch with a focus on API orchestration, AI integration, and production-oriented backend architecture.  
-The system supports real-world usage scenarios and is currently maintained as a private internal project.
+* Built backend systems from scratch with microservice‑oriented architecture
+* Implemented AI orchestration using OpenAI APIs for structured automation and decision flows
+* Designed and integrated APIs supporting complex business workflows
+* Managed deployment, configuration, and runtime behavior of backend services
 
-**Cash Flow Tracker**  
-Personal finance tracking application with backend and web interface.  
-Designed to manage income and expenses, support real usage, and run in a self-hosted environment.  
-Repository: https://github.com/alfonsusenrico/cash-flow-tracker
+---
 
-**Sosmed App (Academic Project)**  
-A backend-heavy social media web application developed as a solo academic project.  
-Features include user authentication, timeline feeds, image posting, comments, and real-time chat using WebSocket-based communication.  
-Repository: https://github.com/alfonsusenrico/sosmed_app
+## Selected Projects
 
-### Links
-- LinkedIn: https://www.linkedin.com/in/alfonsusenrico06/
-- GitHub: https://github.com/alfonsusenrico
+### AI‑Powered SaaS Chatbot Platform *(WIP)*
 
-I’m interested in backend and AI-focused roles where system reliability and real-world usage matter.
+Backend‑centric AI system designed to automate customer interactions and business workflows. Built with a modular architecture focusing on API orchestration, AI integration, and production‑ready backend design. This project is maintained as a private internal system.
+
+### Documentation Generator & Workflow Automation
+
+Tooling system to automate software project initiation and documentation workflows. Includes generators for proposals and README files based on standardized templates, along with automated project directory scaffolding to enforce consistent structure and documentation practices.
+
+Repository: [https://github.com/alfonsusenrico/documentation-generator](https://github.com/alfonsusenrico/documentation-generator)
+
+### AI Email Manager
+
+AI‑assisted email management system focusing on intelligent categorization, importance scoring, and notification flood control. Designed with confidence thresholds and user‑in‑the‑loop correction to emphasize real user value over rule‑based filtering.
+
+Repository: [https://github.com/alfonsusenrico/enrico-email-manager](https://github.com/alfonsusenrico/enrico-email-manager)
+
+### Cash Flow Tracker
+
+Self‑hosted personal finance tracking application with backend APIs and PostgreSQL‑based data storage. Designed for real‑world usage and deployed on a private home server.
+Repository: [https://github.com/alfonsusenrico/cash-flow-tracker](https://github.com/alfonsusenrico/cash-flow-tracker)
+
+### Social Media PWA *(Academic Project)*
+
+Individually built progressive web application featuring timeline feeds, image uploads, comments, timestamps, and real‑time chat using WebSocket communication, demonstrating end‑to‑end full‑stack system design.
+Repository: [https://github.com/alfonsusenrico/sosmed_app](https://github.com/alfonsusenrico/sosmed_app)
+
+---
+
+## Links
+
+* LinkedIn: [https://www.linkedin.com/in/alfonsusenrico06/](https://www.linkedin.com/in/alfonsusenrico06/)
+* GitHub: [https://github.com/alfonsusenrico](https://github.com/alfonsusenrico)
+
+---
+
+I’m interested in backend and AI‑focused roles where system reliability, clean architecture, and real‑world usage matter.
